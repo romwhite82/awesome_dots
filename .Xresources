@@ -1,0 +1,11 @@
+Xft.dpi: 140
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: slight
+Xft.antialias: 1
+Xft.rgba: rgb
+*foreground: rgb:e5/e5/e5
+*background: rgb:00/00/00
+
+Sxiv.foreground: #bbbbbb
+Sxiv.background: #222222
